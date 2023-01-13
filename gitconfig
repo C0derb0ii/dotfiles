@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sametarslanpay@gmail.com
+	name = Samet Arslanpay
